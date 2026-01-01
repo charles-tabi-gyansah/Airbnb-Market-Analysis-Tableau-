@@ -59,7 +59,14 @@ Neighborhoods with higher review activity showed stronger demand, while pricing 
 
 ## Repository Structure
 - AirBnb analysis full tableau project2.twbx
+- Airbnb_Analysis_Screeenshot.png
 - README.md
+
+
+Author
+Charles Tabi Gyansah
+Aspiring Data Analyst 
+
 
 
 
