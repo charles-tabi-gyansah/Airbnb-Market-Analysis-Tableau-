@@ -49,7 +49,20 @@ The dataset includes Airbnb listing information such as:
 - Translating data into actionable insights
 
 
-  
+  ## Visualization
+<img width="1892" height="979" alt="Airbnb_Analysis_Screeenshot" src="https://github.com/user-attachments/assets/e0280f9e-97f7-400a-bfb6-adc3daefb826" />
+
+
+## Insights Summary
+Neighborhoods with higher review activity showed stronger demand, while pricing varied significantly by location and room type. A small number of hosts controlled a large share of listings, indicating market concentration.
+
+
+## Repository Structure
+- AirBnb analysis full tableau project2.twbx
+- README.md
+
+
+
 
 
 
