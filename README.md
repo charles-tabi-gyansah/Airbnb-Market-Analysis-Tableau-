@@ -23,6 +23,36 @@ The dataset includes Airbnb listing information such as:
   
 
 ## Dataset used
+<a href = "https://github.com/charles-tabi-gyansah/Airbnb-Market-Analysis-Tableau-/blob/main/AirBnb%20Market%20Analysis.twbx">Dataset used for the project</a>
+
+
+## Analysis Performed
+- Pricing trends across neighborhoods
+- Identification of the most active hosts
+- Distribution of listings by room type
+- Review volume as an indicator of demand
+- Availability patterns across locations
+
+
+## Dashboards & Visualizations
+- Pricing comparison by neighborhood
+- Host activity and listing concentration
+- Demand insights using review counts
+- Interactive filters for neighborhood, room type, and price range
+
+
+## Key Skills Demonstrated
+- Data storytelling with Tableau
+- Dashboard design and layout
+- Business-focused visual analysis
+- Use of filters, parameters, and calculated fields
+- Translating data into actionable insights
+
+
+  
+
+
+
 
 
 
